@@ -1,5 +1,38 @@
 1. Whether there are aromatic rings.
 2. What neighbors and neighbors' neighbors are.
+
+Aromatics
+90 default aromatic Carbon
+92 fusion between rings
+108 C(Ar) - OH
+141 C(Ar) - CH3
+163 C(Ar) - CH2 - CN or C(Ar) - CH2 - OH
+170 C(Ar) - S - CH3
+202 C(Ar) - CN
+205 C(Ar) - Cl
+429 C(Ar) - SO2 - NR2
+430 C(Ar) - SO
+659 C(Ar) - F
+661 C(Ar) - F six times
+665 C(Ar) - CF3
+668 C(Ar) - F two times (???)
+670 C(Ar) - Br
+672 C(Ar) - I
+676 C(Ar) - SH
+709 C(Ar) - NO2
+746 C(Ar) - NH2
+747 C(Ar) - NH - CH3
+748 C(Ar) - N - (CH3)2
+813 C(Ar) - OCF3 three times
+842 C(Ar) - COO-
+894 C(Ar) - NR3+
+896 C(Ar) - NHR2+
+
+
+
+
+
+
 atom          1    1    F     "Fluoride -CH2-F (UA)"         9    18.998    1
 atom          2    2    C2    "Fluoride -CH2-F (UA)"         6    14.027    2
 atom          3    3    C     "Acetic Acid -COOH (UA)"       6    12.011    3
